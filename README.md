@@ -1,4 +1,4 @@
-# [Text Analysis Project](text_analysis_1.ipynb)
+# [Text Analysis Notebook](text_analysis_1.ipynb)
 
 ## Overview
 Text analysis encompasses various techniques for extracting meaningful insights from textual data. This project demonstrates sentiment analysis to assess emotional tone and readability analysis using the Gunning Fog Index to measure text complexity.
