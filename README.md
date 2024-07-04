@@ -34,6 +34,6 @@ This formula provides a numerical representation of text complexity, considering
 ## Technologies Used
 - NLTK: A leading platform for building Python programs to work with human language data.
 - spaCy: An open-source software library for advanced natural language processing.
-- Custom dictionaries for sentiment analysis: Allows for domain-specific sentiment scoring.
+- [Custom dictionaries for sentiment analysis](https://github.com/ramandrosoa/Text_Analysis/tree/main/DICT): Allows for domain-specific sentiment scoring.
 
 This project combines various text analysis techniques to provide a comprehensive understanding of textual content, from emotional tone to readability.
