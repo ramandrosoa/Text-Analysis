@@ -3,7 +3,7 @@
 ## Overview
 Text analysis encompasses various techniques for extracting meaningful insights from textual data. 
 
-In this [notebook](text_analysis_1.ipynb), we will perform sentiment analysis to assess emotional tone and readability analysis using the Gunning Fog Index to measure text complexity.
+In this [notebook](text_analysis_1.ipynb), we will perform text analysis to assess emotional tone and readability analysis using the Gunning Fog Index to measure text complexity.
 
 ## Features
 - Web scraping for article retrieval: Automatically extracts text from online sources for analysis. ([Link to the article](https://insights.blackcoffer.com/what-if-the-creation-is-taking-over-the-creator/))
